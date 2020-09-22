@@ -1,0 +1,29 @@
+.btn-custom{
+
+    background-color: white;
+    color:black;
+  }
+  .fa-arrow-circle-right{
+    font-size: 20px;
+  }
+  .book-now{
+    width: 80%;
+  }
+  .book-now div{
+    display: inline-block;
+  
+  }
+  
+  .book-now .content{
+    float: left;
+  }
+  .book-now .icon{
+    float: right;
+  }
+.center{
+  margin-top:300px;
+}
+b, strong {
+  font-weight: bolder;
+  FONT-SIZE: larger;
+}

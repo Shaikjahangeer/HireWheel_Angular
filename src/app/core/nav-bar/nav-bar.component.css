@@ -1,0 +1,13 @@
+.navbar-light .navbar-brand{
+    color:white;
+    font-size: 30px;
+  }
+  .btn-custom{
+  
+    background-color: white;
+    color:blue;
+  }
+  .fa-arrow-circle-right{
+    font-size: 20px;
+    color: white;
+  }
